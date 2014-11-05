@@ -1,11 +1,11 @@
-TCAN_Documentation
+TCAN Documentation
 ==================
 
-This is just a repository to keep information related to the TCAN documentation.
+This is a repository to keep information related to the TCAN documentation.
 
-\img ... contain images that appear in wiki pages
+`\img` contains images that appear in wiki pages
 
-For detailed documentation please go to the individual project wikis:
+For detailed documentation we refer to the individual project wikis:
 
 1. [TCAN Hadoop implementation](https://github.com/TexasCleanAirNetwork/TCAN_Hadoop/wiki)
 
